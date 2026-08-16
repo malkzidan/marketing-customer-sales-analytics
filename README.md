@@ -171,11 +171,11 @@ The dashboard pages and business storyline are designed to connect analysis dire
 
 ### Executive Overview
 
-![Executive Overview Dashboard](Images/Overview.png)
+![Executive Overview Dashboard](images/Overview.png)
 
 ### Customer Segmentation & Value
 
-![Customer Segmentation & Value Dashboard](Images/Customer_Segmentation.png)
+![Customer Segmentation & Value Dashboard](images/Customer_Segmentation.png)
 
 > **Note:** Replace the image filenames above with the exact filenames used in your repository's `Images` folder.
 
