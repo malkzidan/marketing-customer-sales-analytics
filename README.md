@@ -171,11 +171,11 @@ The dashboard pages and business storyline are designed to connect analysis dire
 
 ### Executive Overview
 
-![Executive Overview Dashboard](images/Overview.png)
+![Executive Overview Dashboard](https://github.com/malkzidan/marketing-customer-sales-analytics/blob/main/Images/Overview.jpeg)
 
 ### Customer Segmentation & Value
 
-![Customer Segmentation & Value Dashboard](images/Customer_Segmentation.png)
+![Customer Segmentation & Value Dashboard](https://github.com/malkzidan/marketing-customer-sales-analytics/blob/main/Images/Customer_Segmentation.jpeg)
 
 > **Note:** Replace the image filenames above with the exact filenames used in your repository's `Images` folder.
 
