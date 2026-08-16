@@ -213,7 +213,7 @@ Marketing-Customer-Sales-Analytics/
 │   └── marketing-customer-sales-analysis.ipynb
 │
 ├── PowerBI/
-│   └── FinalProject.pbix
+│   └── marketing-customer-sales-dashboard.pbix
 │
 ├── Images/
 │   ├── Overview.png
@@ -230,9 +230,9 @@ Marketing-Customer-Sales-Analytics/
 
 ## 👥 Team Members
 
-* **[Malak Zidan](#)**
-* **[Mariam Mostafa](#)**
-* **[Mariam Haitham](#)**
+* **[Malak Zidan]**
+* **[Mariam Mostafa]**
+* **[Mariam Haitham]**
 
 ---
 
