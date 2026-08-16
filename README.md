@@ -74,7 +74,6 @@ The dashboard turns the analytical findings into an interactive business view fo
 
 ## 📁 Project Structure
 
-```text
 marketing-customer-sales-analytics/
 │
 ├── README.md
