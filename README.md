@@ -210,7 +210,7 @@ Marketing-Customer-Sales-Analytics/
 │   └── Sales_marketing_customer_dataset.csv
 │
 ├── Notebook/
-│   └── final-project.ipynb
+│   └── marketing-customer-sales-analysis.ipynb
 │
 ├── PowerBI/
 │   └── FinalProject.pbix
