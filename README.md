@@ -2,9 +2,9 @@
 
 ### From Data to Business Decisions
 
-A team-based Data Analytics project focused on transforming customer, marketing, and sales data into actionable business insights.
+A team-based Data Analytics project focused on analyzing customer, marketing, and sales data and transforming it into actionable business insights.
 
-This project follows an end-to-end analytics journey:
+The project follows an end-to-end analytics journey:
 
 **Data → Cleaning → Analysis → Visualization → Dashboard → Insights → Recommendations**
 
@@ -12,22 +12,22 @@ This project follows an end-to-end analytics journey:
 
 ## 🎯 Project Overview
 
-The project analyzes a dataset of **15,000 customers and 41 columns**, covering customer demographics, engagement, spending, marketing channels, and customer lifecycle.
+The project analyzes a dataset of **15,000 customers and 41 columns** covering customer demographics, engagement, spending, marketing channels, and customer lifecycle.
 
-### Business Objectives
+### Main Objectives
 
 - Analyze customer spending and value
 - Evaluate marketing acquisition channels
 - Understand customer churn
-- Segment customers using **RFM Analysis & K-Means**
+- Segment customers using RFM & K-Means
 - Identify actionable business opportunities
-- Build an interactive **Power BI Dashboard**
+- Build an interactive Power BI dashboard
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-**Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Power BI · DAX · Excel · AI-assisted Analysis**
+**Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Power BI · DAX · Excel · AI-assisted analysis**
 
 ---
 
@@ -35,7 +35,7 @@ The project analyzes a dataset of **15,000 customers and 41 columns**, covering 
 
 The project covers:
 
-- Data Quality Assessment & Cleaning
+- Data Quality & Cleaning
 - Exploratory Data Analysis
 - Sales & Revenue Analysis
 - Customer Analytics
@@ -58,7 +58,7 @@ The project covers:
 
 ![Customer Segmentation](images/dashboard-customer-segmentation.png)
 
-The interactive dashboard brings the analytical findings together into a business-focused view of performance, customer value, churn, marketing channels, and retention opportunities.
+The dashboard turns the analytical findings into an interactive business view focused on performance, customer value, churn, marketing channels, and retention opportunities.
 
 ---
 
@@ -66,37 +66,22 @@ The interactive dashboard brings the analytical findings together into a busines
 
 - The top **20% of customers generate approximately 40% of recorded spend**.
 - **Organic** leads in customer volume and total spend, while **Email & Referral** show higher spend per customer.
-- The overall observed churn rate is approximately **15.3%**.
-- A relatively small high-value customer cluster contributes disproportionately higher spending.
+- Overall observed churn is approximately **15.3%**.
+- A small high-value customer cluster contributes disproportionately higher spending.
 - Significant data-quality issues were identified in lifecycle dates and promotional fields.
 
 ---
 
-## 📁 Project Structure
+## 📦 Project Files
 
-```text
-marketing-customer-sales-analytics/
-│
-├── README.md
-│
-├── data/
-│   └── Sales - Marketing customer dataset.csv
-│
-├── notebook/
-│   └── marketing-customer-sales-analysis.ipynb
-│
-├── powerbi/
-│   └── marketing-customer-sales-dashboard.pbix
-│
-├── presentation/
-│   └── marketing-customer-sales-analytics-presentation.pdf
-│
-├── prompts/
-│   └── ai-analysis-prompts.pdf
-│
-└── images/
-    ├── dashboard-overview.png
-    └── dashboard-customer-segmentation.png
+| Folder | Contents |
+|---|---|
+| `data/` | Dataset used for the analysis |
+| `notebook/` | Python analysis & ML notebook |
+| `powerbi/` | Interactive Power BI dashboard |
+| `presentation/` | Final project presentation |
+| `prompts/` | AI prompts used during the project |
+| `images/` | Dashboard screenshots |
 
 ---
 
@@ -105,9 +90,9 @@ marketing-customer-sales-analytics/
 This project was completed as a **team-based Data Analytics project** during the **Data Analysis Using AI Training** with **Orange Digital Center Egypt × Instant Software Solutions**.
 
 **Team Members:**
-- [Malak Zidan ]
-- [Mariam Mostafa]
-- [Mariam Haitham]
+- [Name]
+- [Name]
+- [Name]
 
 ---
 
