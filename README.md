@@ -207,7 +207,7 @@ The dashboard pages and business storyline are designed to connect analysis dire
 Marketing-Customer-Sales-Analytics/
 │
 ├── Data/
-│   └── marketing_customer_dataset.csv
+│   └── Sales_marketing_customer_dataset.csv
 │
 ├── Notebook/
 │   └── final-project.ipynb
