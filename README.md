@@ -177,8 +177,6 @@ The dashboard pages and business storyline are designed to connect analysis dire
 
 ![Customer Segmentation & Value Dashboard](https://github.com/malkzidan/marketing-customer-sales-analytics/blob/main/Images/Customer_Segmentation.jpeg)
 
-> **Note:** Replace the image filenames above with the exact filenames used in your repository's `Images` folder.
-
 ---
 
 ## 🛠️ Tools & Technologies
