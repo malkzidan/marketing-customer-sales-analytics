@@ -97,6 +97,7 @@ marketing-customer-sales-analytics/
 └── images/
     ├── dashboard-overview.png
     └── dashboard-customer-segmentation.png
+---
 
 This project was completed as a team-based Data Analytics project during the Data Analysis Using AI Training with Orange Digital Center Egypt × Instant Software Solutions.
 
