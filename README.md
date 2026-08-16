@@ -72,16 +72,31 @@ The dashboard turns the analytical findings into an interactive business view fo
 
 ---
 
-## 📦 Project Files
+## 📁 Project Structure
 
-| Folder | Contents |
-|---|---|
-| `data/` | Dataset used for the analysis |
-| `notebook/` | Python analysis & ML notebook |
-| `powerbi/` | Interactive Power BI dashboard |
-| `presentation/` | Final project presentation |
-| `prompts/` | AI prompts used during the project |
-| `images/` | Dashboard screenshots |
+```text
+marketing-customer-sales-analytics/
+│
+├── README.md
+│
+├── data/
+│   └── Sales - Marketing customer dataset.csv
+│
+├── notebook/
+│   └── marketing-customer-sales-analysis.ipynb
+│
+├── powerbi/
+│   └── marketing-customer-sales-dashboard.pbix
+│
+├── presentation/
+│   └── marketing-customer-sales-analytics-presentation.pdf
+│
+├── prompts/
+│   └── ai-analysis-prompts.pdf
+│
+└── images/
+    ├── dashboard-overview.png
+    └── dashboard-customer-segmentation.png
 
 ---
 
